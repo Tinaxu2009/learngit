@@ -1,1 +1,2 @@
 Just try to learn the stages of Git
+|Git tracks changes
